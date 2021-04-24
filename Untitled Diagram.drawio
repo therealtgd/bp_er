@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T12:30:02.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="wme4cDMheoz1Rjrzmenh" version="14.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-24T12:30:41.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="H5IQhUwRo7wR8hCp58A5" version="14.6.3" type="github">
   <diagram id="-kFveXUPwsFfeu6zUe2m" name="Pilana">
     <mxGraphModel dx="2805" dy="2001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -654,6 +654,12 @@
         </mxCell>
         <mxCell id="0_KZoaDjByY7Pw-YC7at-101" value="(1, 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VTfaBfGXfOhWPhyagRME-1">
           <mxGeometry x="20" y="140" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_KZoaDjByY7Pw-YC7at-102" value="(0, 1)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VTfaBfGXfOhWPhyagRME-1">
+          <mxGeometry x="70" y="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0_KZoaDjByY7Pw-YC7at-103" value="(0, N)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VTfaBfGXfOhWPhyagRME-1">
+          <mxGeometry x="70" y="550" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
